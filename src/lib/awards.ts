@@ -18,6 +18,22 @@ export const AWARD_CATEGORIES: AwardCategory[] = [
       "Camila Silva",
       "Maria Luiza Nazario",
       "Renan Yasuoka"
+      "JASON DAIR & GIOVANA BORGHI"
+      "ERICK FERIOLI & RAYANE QUINTEIRO"
+      "FABIANA CABRAL & EMERSON GABRIEL"
+      "JULIANA SMACH"
+      "TAMIRES LEITE"
+      "ISABELA MOTA"
+      "BEATRIZ RODRIGUES"
+      "Izabella de Luna - Recife"
+      "Fernanda Contador - Curitiba"
+      "Bruna Dalbem - POA"
+      "KATIA CORREIA"
+      "DANIELLE CORREA"
+      "Vinicius Patriota - Time Danilo Turlão"
+      "Maria Helena Rocha - Time Luciana Finatti"
+      "Carlos Marques - Pedro Barros"
+      "Gustavo Pinto - Sergio Fridman"
     ]
   }
 ];
