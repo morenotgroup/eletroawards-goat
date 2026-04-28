@@ -1234,4 +1234,5 @@ export const EMPLOYEES: Employee[] = [
     "cpf": "32158631899",
     "name": "Moreno",
     "email": "moreno@eletromidia.com.br"
+  }    
 ];
