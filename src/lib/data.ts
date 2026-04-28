@@ -1224,5 +1224,14 @@ export const EMPLOYEES: Employee[] = [
     "cpf": "45760003810",
     "name": "Bruno Rodrigues Goncalves",
     "email": "bruno.goncalves@eletromidia.com.br"
-  }
+  },
+  {
+    "cpf": "36068240843",
+    "name": "Patrícia Romera",
+    "email": "patricia.romera@eletromidia.com.br"
+  },
+  {
+    "cpf": "32158631899",
+    "name": "Moreno",
+    "email": "moreno@eletromidia.com.br"
 ];
