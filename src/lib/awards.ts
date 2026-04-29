@@ -29,6 +29,7 @@ export const AWARD_CATEGORIES: AwardCategory[] = [
       "Fernanda Contador - Curitiba",
       "Bruna Dalbem - POA",
       "KATIA CORREIA",
+      "PATRICIA BAHIA",
       "DANIELLE CORREA",
       "Vinicius Patriota - Time Danilo Turlão",
       "Maria Helena Rocha - Time Luciana Finatti",
